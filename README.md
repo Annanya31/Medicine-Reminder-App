@@ -1,1 +1,2 @@
 # Medicine-Reminder-App
+This project focuses on designing and implementing a medicine database system to help users track their prescribed medications and avoid missed doses. Developed in Android Studio using Java for functionality and XML for design, the app utilizes an SQLite database to store medicine names, along with their scheduled dates and times. The app then sends notifications to remind users when to take their medications.
